@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hoainam1507/Portfolio1.git/static/css/main.b90b03de.chunk.css",
+    "main.js": "/hoainam1507/Portfolio1.git/static/js/main.8f9aca10.chunk.js",
+    "main.js.map": "/hoainam1507/Portfolio1.git/static/js/main.8f9aca10.chunk.js.map",
+    "runtime-main.js": "/hoainam1507/Portfolio1.git/static/js/runtime-main.6efb9b0c.js",
+    "runtime-main.js.map": "/hoainam1507/Portfolio1.git/static/js/runtime-main.6efb9b0c.js.map",
+    "static/css/2.d64471e2.chunk.css": "/hoainam1507/Portfolio1.git/static/css/2.d64471e2.chunk.css",
+    "static/js/2.a4f245ca.chunk.js": "/hoainam1507/Portfolio1.git/static/js/2.a4f245ca.chunk.js",
+    "static/js/2.a4f245ca.chunk.js.map": "/hoainam1507/Portfolio1.git/static/js/2.a4f245ca.chunk.js.map",
+    "index.html": "/hoainam1507/Portfolio1.git/index.html",
+    "precache-manifest.7fdd31a3c60f533c7485eb502ba83ae6.js": "/hoainam1507/Portfolio1.git/precache-manifest.7fdd31a3c60f533c7485eb502ba83ae6.js",
+    "service-worker.js": "/hoainam1507/Portfolio1.git/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/hoainam1507/Portfolio1.git/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.b90b03de.chunk.css.map": "/hoainam1507/Portfolio1.git/static/css/main.b90b03de.chunk.css.map",
+    "static/js/2.a4f245ca.chunk.js.LICENSE.txt": "/hoainam1507/Portfolio1.git/static/js/2.a4f245ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6efb9b0c.js",
+    "static/css/2.d64471e2.chunk.css",
+    "static/js/2.a4f245ca.chunk.js",
+    "static/css/main.b90b03de.chunk.css",
+    "static/js/main.8f9aca10.chunk.js"
+  ]
+}

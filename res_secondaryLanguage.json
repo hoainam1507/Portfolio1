@@ -1,0 +1,116 @@
+{
+    "basic_info": {
+      "description_header": "Xin chào, Tôi là Hoài Nam Ngô ",
+      "description": "Tôi là một lập trình viên Frontend mới ra trường với đam mê sâu sắc về phát triển web và kiến thức vững về công nghệ Frontend. Tôi đã tích lũy kinh nghiệm đáng kể thông qua việc tham gia và dẫn dắt nhiều dự án Frontend thành công, nơi tôi thể hiện khả năng làm việc hiệu quả với các framework như React và Angular. Với sự sáng tạo và khả năng giải quyết vấn đề, tôi mang đến sự đồng đội và ý tưởng mới mẻ cho mọi dự án. Tôi là người đam mê học hỏi và luôn tìm kiếm cơ hội để nâng cao kỹ năng và kiến thức của mình trong lĩnh vực Frontend phát triển.",
+      "section_name": {
+        "about": "Về tôi",
+        "projects": "dự án",
+        "skills": "kỹ năng",
+        "experience": "kinh nghiệm"
+      }
+    },
+    "projects": [
+      {
+        "title": "NICE CLOTHES",
+        "startDate": "2023",
+        "description": "Chào mừng bạn đến với Nice Clothes, điểm đến trực tuyến hàng đầu của bạn về trang phục hợp thời trang! Tại Nice Clothes, chúng tôi tin rằng mọi người đều có thể tiếp cận được phong cách tuyệt vời. Bộ sưu tập quần áo tuyển chọn của chúng tôi được thiết kế để truyền cảm hứng cho sự tự tin và sáng tạo trong việc lựa chọn tủ quần áo của bạn. Từ những tác phẩm kinh điển vượt thời gian đến những xu hướng mới nhất, chúng tôi cung cấp nhiều loại quần áo đáp ứng sở thích thời trang cá nhân của bạn.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "FOOTBALL SHOP",
+        "startDate": "2022",
+        "description": "Chào mừng bạn đến với Football Shop, điểm đến trực tuyến dành cho mọi thứ về bóng đá! Là một cửa hàng bán dụng cụ bóng đá chuyên dụng, chúng tôi cung cấp nhiều lựa chọn về thiết bị, quần áo và phụ kiện bóng đá. Tại Football Shop, chúng tôi hiểu niềm đam mê xung quanh trò chơi đẹp mắt và chúng tôi cố gắng cung cấp cho những người đam mê bóng đá những sản phẩm chất lượng hàng đầu giúp nâng cao trải nghiệm chơi của họ. :)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "NICE SHOES",
+        "startDate": "2022",
+        "description": "Nice Shoes là cửa hàng giày trực tuyến mang đến trải nghiệm mua sắm đa dạng và thú vị cho khách hàng. Với sứ mệnh mang đến cho người tiêu dùng không chỉ những đôi giày chất lượng mà còn đa dạng về kiểu dáng, thương hiệu và giá cả, Nice Shoes tự hào là điểm đến cuối cùng của những người đam mê thời trang và yêu giày.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2023 - hiện tại",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Serros Solutions",
+        "title": "Thực tập sinh",
+        "years": "09.2022 - 09.2023",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "Swagger",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }

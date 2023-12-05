@@ -1,0 +1,118 @@
+{
+    "basic_info": {
+      "description_header": "Hi, I'm HoaiNam Ngo",
+      "description": "I am a newly graduated Frontend developer with a deep passion for web development and a solid knowledge of Frontend technology. I have accumulated significant experience through participating and leading many successful Frontend projects, where I have demonstrated my ability to work effectively with frameworks such as React and Angular. With my creativity and problem-solving abilities, I bring teamwork and fresh ideas to every project. I am passionate about learning and always looking for opportunities to improve my skills and knowledge in the field of Frontend development.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "NICE CLOTHES",
+        "startDate": "2023",
+        "description": "Welcome to Nice Clothes, your premier online destination for fashion-forward apparel! At Nice Clothes, we believe that great style should be accessible to everyone. Our curated collection of clothing is designed to inspire confidence and creativity in your wardrobe choices. From timeless classics to the latest trends, we offer a diverse range of clothing that caters to your individual fashion preferences.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "FOOTBALL SHOP",
+        "startDate": "2022",
+        "description": "Welcome to Football Shop, your go-to online destination for all things soccer! As a dedicated soccer gear store, we offer a comprehensive selection of football equipment, apparel, and accessories. At Football Shop, we understand the passion that surrounds the beautiful game, and we strive to provide soccer enthusiasts with top-quality products that enhance their playing experience. :)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "NICE SHOES",
+        "startDate": "2022",
+        "description": "Nice Shoes is an online shoe store that brings a diverse and exciting shopping experience to customers. With a mission to provide consumers not only with quality footwear but also diversity in styles, brands, and prices, Nice Shoes proudly stands as the ultimate destination for fashion enthusiasts and shoe lovers.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2023 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Serros Solutions",
+        "title": "Intern",
+        "years": "09.2022 - 09.2023",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }
